@@ -2,7 +2,7 @@
 
 Simple web app built using Vue3,Typescript and Windi CSS.
 
-To see this [click here]()
+To see this website [click here](https://hyrule-jobs-vue.netlify.app/)
 
 ### How to run this on your system
 
